@@ -4,18 +4,11 @@
 *.user
 *.userosscache
 *.sln.docstates
-
-# Build results
+Database_configuration.cs
 bin/
 obj/
 *.dll
 *.exe
-
-# Logs
 *.log
-
-# VS Code
 .vscode/
-
-# Rider
 .idea/
